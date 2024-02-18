@@ -1,0 +1,12 @@
+button:active{
+  border: 2px solid red;
+}
+button{
+  margin: 20px;
+}
+.card{
+  border: 2px dotted red; margin: 20px;
+}
+.cont{
+  display: grid; grid-template-columns: repeat(3,1fr);
+}
